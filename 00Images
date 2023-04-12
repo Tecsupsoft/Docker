@@ -1,0 +1,16 @@
+#Muestra la lista de imagenes descargadas.
+sudo docker images
+REPOSITORY   TAG       IMAGE ID       CREATED        SIZE
+
+#Iniciamos la descarga de la imagen de nginx
+sudo docker pull nginx
+
+#Iniciamos la descarga de la imagen de mongo
+sudo docker pull mongo
+
+#Muestra la lista de imagenes descargadas.
+sudo docker images
+REPOSITORY   TAG       IMAGE ID       CREATED        SIZE
+nginx        latest    6efc10a0510f   14 hours ago   142MB
+mongo        latest    9a5e0d0cf6de   3 weeks ago    646MB
+
