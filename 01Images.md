@@ -73,3 +73,8 @@ figlet  TECSUP
   |_| |_____\____|____/ \___/|_|
 
 ```
+```
+exit
+```
+[!IMPORTANT]
+Después de salir del contenedor, la configuración realizada se pierde.
