@@ -17,9 +17,9 @@ registry.example.com:5000/my-private-image
 ```
 docker search ubuntu
 ```
-### Ejecutando un contenedor <ubuntu>
--i tells Docker to connect us to the container's stdin.
--t tells Docker that we want a pseudo-terminal.
+### Ejecutando un contenedor de forma interactiva. <ubuntu>
+#### -i tells Docker to connect us to the container's stdin.
+#### -t tells Docker that we want a pseudo-terminal.
 
 ```
 docker run -it ubuntu
