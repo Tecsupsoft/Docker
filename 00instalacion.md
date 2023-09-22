@@ -4,7 +4,7 @@
 ```
 sudo apt update
 ```
-## Instalando paquetes previos.
+### Instalando paquetes previos.
 ```
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 ```
