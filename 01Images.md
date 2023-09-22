@@ -12,21 +12,21 @@ gdiaz/nginx
 ```
 registry.example.com:5000/my-private-image
 ```
+### Buscando un contenedor <ubuntu>
 
+```
+docker search ubuntu
+```
+### Ejecutando un contenedor <ubuntu>
+-i tells Docker to connect us to the container's stdin.
+-t tells Docker that we want a pseudo-terminal.
 
-
-sudo docker images
-REPOSITORY   TAG       IMAGE ID       CREATED        SIZE
-
-#Iniciamos la descarga de la imagen de nginx
-sudo docker pull nginx
-
-#Iniciamos la descarga de la imagen de mongo
-sudo docker pull mongo
-
-#Muestra la lista de imagenes descargadas.
-sudo docker images
-REPOSITORY   TAG       IMAGE ID       CREATED        SIZE
-nginx        latest    6efc10a0510f   14 hours ago   142MB
-mongo        latest    9a5e0d0cf6de   3 weeks ago    646MB
-
+```
+docker run -it ubuntu
+```
+```
+apt-get update
+```
+```
+apt-get install figlet
+```
