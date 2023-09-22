@@ -49,8 +49,8 @@ ubuntu/telegraf                  Telegraf collects, processes, aggregates & w…
 
 
 ### Ejecutando un contenedor de forma interactiva. <ubuntu>
-#### -i tells Docker to connect us to the container's stdin.
-#### -t tells Docker that we want a pseudo-terminal.
+> -i tells Docker to connect us to the container's stdin.
+> -t tells Docker that we want a pseudo-terminal.
 
 ```
 docker run -it ubuntu
