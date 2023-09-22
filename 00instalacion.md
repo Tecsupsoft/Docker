@@ -1,5 +1,6 @@
 # Instalación de Docker
-## Actualizando la base de datos de los paquetes.
+> [!NOTE]
+> Actualizando la base de datos de los paquetes.
 ```
 sudo apt update
 ```
