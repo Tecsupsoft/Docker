@@ -1,6 +1,6 @@
-##Instalación de Docker
-#Actualizando la base de datos de los paquetes.
-```diff
+#Instalación de Docker
+##Actualizando la base de datos de los paquetes.
+```
 sudo apt update
 ```
 #Instalando paquetes previos.
