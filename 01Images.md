@@ -1,17 +1,17 @@
 # Trabajando con imagenes.
 ### Images namespaces.
 ### Root-like.
-'''
+```
 ubuntu
-'''
+```
 ### User (and organizations)
-'''
+```
 gdiaz/nginx
-'''
+```
 ### Self-Hosted
-'''
+```
 registry.example.com:5000/my-private-image
-'''
+```
 
 
 
