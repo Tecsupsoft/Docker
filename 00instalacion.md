@@ -35,14 +35,19 @@ sudo systemctl status docker
 ```
 sudo groupadd docker
 ```
+```
 sudo gpasswd -a $USER docker
 ```
+```
 sudo service docker restart
+```
 ```
 exit
 ```
 ## Verificando la información de docker.
 ```
 docker info
+```
+```
 docker version
 ```
