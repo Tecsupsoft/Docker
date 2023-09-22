@@ -30,3 +30,8 @@ apt-get update
 ```
 apt-get install figlet
 ```
+
+```
+figlet  TECSUP
+
+```
