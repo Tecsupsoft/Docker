@@ -76,5 +76,5 @@ figlet  TECSUP
 ```
 exit
 ```
-[!IMPORTANT]
-Después de salir del contenedor, la configuración realizada se pierde.
+>[!IMPORTANT]
+>Después de salir del contenedor, la configuración realizada se pierde.
