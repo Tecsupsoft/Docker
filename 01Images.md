@@ -17,6 +17,7 @@ registry.example.com:5000/my-private-image
 ```
 docker search ubuntu
 ```
+```
 NAME                             DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
 ubuntu                           Ubuntu is a Debian-based Linux operating sys…   16419     [OK]
 websphere-liberty                WebSphere Liberty multi-architecture images …   297       [OK]
@@ -44,7 +45,7 @@ ubuntu/dotnet-runtime            Chiselled Ubuntu runtime image for .NET apps…
 ubuntu/cassandra                 Cassandra, an open source NoSQL distributed …   2
 ubuntu/telegraf                  Telegraf collects, processes, aggregates & w…   4
 
-
+```
 
 
 ### Ejecutando un contenedor de forma interactiva. <ubuntu>
