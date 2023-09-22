@@ -1,6 +1,6 @@
 # Trabajando con imagenes.
 ### Images namespaces.
-### Root-like.
+### Root-like. 
 ```
 ubuntu
 ```
