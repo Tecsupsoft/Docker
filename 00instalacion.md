@@ -34,8 +34,11 @@ sudo systemctl status docker
 ## Agregar el usuario actual al grupo de docker.
 ```
 sudo groupadd docker
+```
 sudo gpasswd -a $USER docker
+```
 sudo service docker restart
+```
 exit
 ```
 ## Verificando la información de docker.
